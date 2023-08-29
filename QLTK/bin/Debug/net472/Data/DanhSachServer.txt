@@ -1,0 +1,42 @@
+#Local
+	Local:127.0.0.1:14445
+#Team
+	Vũ trụ 1:dragon1.teamobi.com:14445
+	Vũ trụ 2:dragon2.teamobi.com:14445
+	Vũ trụ 3:dragon3.teamobi.com:14445
+	Vũ trụ 4:dragon4.teamobi.com:14445
+	Vũ trụ 5:dragon5.teamobi.com:14445
+	Vũ trụ 6:dragon6.teamobi.com:14445
+	Vũ trụ 7:dragon7.teamobi.com:14445
+	Vũ trụ 8:dragon8.teamobi.com:14445
+	Vũ trụ 9:dragon9.teamobi.com:14445
+	Vũ trụ 10:dragon10.teamobi.com:14445
+	Võ đài Liên Vũ Trụ:dragonwar.teamobi.com:20000
+	Indonaga:dragon.indonaga.com:14446
+	Universe 1:dragon.indonaga.com:14445
+#Arriety
+	Arriety:14.225.212.183:14445
+#Atula
+	Atula:14.225.217.218:14445
+#HP
+	NRO HP:hpcomback.click:14445
+#Heniken
+	Heniken:103.178.235.9:14445
+#Sky
+	Sky:14.225.198.231:14445
+#Avengers
+	Avengers:fw9.chuberong.mobi:7777
+#SALENA
+	SALENA:14.225.210.243:14445
+#One
+	One:103.92.26.137:14445
+#Great
+	Great:sv1.nrogreat.com:15551
+#Ultra
+	Ulltra:103.178.234.35:14445
+#Loyal
+	Loyal:159.89.204.120:10005
+#Boon
+	Boon:14.225.253.120:14445
+#Eris
+	Eris:sv.nroeris.pro:14445

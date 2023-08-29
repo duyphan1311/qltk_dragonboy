@@ -1,0 +1,65 @@
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.csproj.AssemblyReference.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.QLTK.resources
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.csproj.GenerateResource.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net472\QLTK.exe.config
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net472\QLTK.exe
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.exe
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net472\KAutoHelper.dll
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net472\QLTK.csproj.CopyComplete
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.AssemblyReference.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.Properties.Resources.resources
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.QLTK.resources
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.GenerateResource.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.exe
+C:\Users\Le Duy\Desktop\QLTK\QLTK\bin\Debug\net472\QLTK.exe.config
+C:\Users\Le Duy\Desktop\QLTK\QLTK\bin\Debug\net472\QLTK.exe
+C:\Users\Le Duy\Desktop\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.CopyComplete
+C:\Users\Le Duy\Desktop\QLTK\QLTK\bin\Debug\net472\LitJson.dll
+D:\Mod_NRO\QLTK\QLTK\bin\Debug\net472\QLTK.exe.config
+D:\Mod_NRO\QLTK\QLTK\bin\Debug\net472\QLTK.exe
+D:\Mod_NRO\QLTK\QLTK\bin\Debug\net472\LitJson.dll
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.AssemblyReference.cache
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.SuggestedBindingRedirects.cache
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.Properties.Resources.resources
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.QLTK.resources
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.GenerateResource.cache
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.CoreCompileInputs.cache
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.csproj.CopyComplete
+D:\Mod_NRO\QLTK\QLTK\obj\Debug\net472\QLTK.exe
+D:\Mod_NRO\V222\QLTK\bin\Debug\net472\QLTK.exe.config
+D:\Mod_NRO\V222\QLTK\bin\Debug\net472\QLTK.exe
+D:\Mod_NRO\V222\QLTK\bin\Debug\net472\LitJson.dll
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.csproj.AssemblyReference.cache
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.csproj.SuggestedBindingRedirects.cache
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.Properties.Resources.resources
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.QLTK.resources
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.csproj.GenerateResource.cache
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.csproj.CoreCompileInputs.cache
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.csproj.CopyComplete
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.exe
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.InfoChar.resources
+D:\Mod_NRO\V222\QLTK\bin\Debug\net472\QLTK.pdb
+D:\Mod_NRO\V222\QLTK\obj\Debug\net472\QLTK.pdb
+D:\Mod_NRO\code\V222\QLTK\bin\Debug\net472\QLTK.exe.config
+D:\Mod_NRO\code\V222\QLTK\bin\Debug\net472\QLTK.exe
+D:\Mod_NRO\code\V222\QLTK\bin\Debug\net472\QLTK.pdb
+D:\Mod_NRO\code\V222\QLTK\bin\Debug\net472\LitJson.dll
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.csproj.AssemblyReference.cache
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.csproj.SuggestedBindingRedirects.cache
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.InfoChar.resources
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.Properties.Resources.resources
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.QLTK.resources
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.csproj.GenerateResource.cache
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.csproj.CoreCompileInputs.cache
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.csproj.CopyComplete
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.exe
+D:\Mod_NRO\code\V222\QLTK\obj\Debug\net472\QLTK.pdb

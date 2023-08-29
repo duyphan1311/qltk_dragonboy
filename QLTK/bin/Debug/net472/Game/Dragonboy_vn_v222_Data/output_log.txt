@@ -1,0 +1,64 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     2033 MB
+    Driver:   31.0.12028.2
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.535 seconds
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.590900 ms
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\Dragonboy_vn_v222_Data\Managed\LitJSON.dll (this message is harmless)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1aec -> priority: 1 
+  Thread -> id: 3584 -> priority: 1 
+  Thread -> id: 2508 -> priority: 1 
+  Thread -> id: 38c4 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connect fail
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

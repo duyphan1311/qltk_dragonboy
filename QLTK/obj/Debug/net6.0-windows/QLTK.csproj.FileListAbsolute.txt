@@ -1,0 +1,30 @@
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\bin\Debug\net6.0-windows\QLTK.exe
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\bin\Debug\net6.0-windows\QLTK.deps.json
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\bin\Debug\net6.0-windows\QLTK.runtimeconfig.json
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\bin\Debug\net6.0-windows\QLTK.dll
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\bin\Debug\net6.0-windows\QLTK.pdb
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.AssemblyReference.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.QLTK.resources
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.GenerateResource.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.AssemblyInfoInputs.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.AssemblyInfo.cs
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.dll
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\refint\QLTK.dll
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.pdb
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\QLTK.genruntimeconfig.cache
+C:\Users\Le Duy\Desktop\QLTK\QLTK\QLTK\obj\Debug\net6.0-windows\ref\QLTK.dll
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net6.0-windows\QLTK.exe
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net6.0-windows\QLTK.deps.json
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net6.0-windows\QLTK.runtimeconfig.json
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\bin\Debug\net6.0-windows\QLTK.dll
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.AssemblyReference.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.QLTK.resources
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.GenerateResource.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.AssemblyInfoInputs.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.AssemblyInfo.cs
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.dll
+C:\Users\Le Duy\Desktop\NRO\NRO Teamobi\QLTK\obj\Debug\net6.0-windows\QLTK.genruntimeconfig.cache

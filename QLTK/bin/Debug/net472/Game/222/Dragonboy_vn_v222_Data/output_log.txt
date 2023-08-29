@@ -1,0 +1,234 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     2033 MB
+    Driver:   31.0.12028.2
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.259900 ms
+Platform assembly: D:\Mod_NRO\V222\QLTK\bin\Debug\net472\Game\222\Dragonboy_vn_v222_Data\Managed\LitJSON.dll (this message is harmless)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 39b8 -> priority: 1 
+  Thread -> id: 32c4 -> priority: 1 
+  Thread -> id: 49c8 -> priority: 1 
+  Thread -> id: 834 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon3.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TOO LONG FOR STOP AUDIO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CANNOT STOP AUDIO WHEN STOPPING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Function __thiscall SoundChannelStopList::~SoundChannelStopList(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 151 unused Assets to reduce memory usage. Loaded Objects now: 1054.
+Total: 2.338100 ms (FindLiveObjects: 0.111200 ms CreateObjectMapping: 0.059100 ms MarkObjects: 2.044500 ms  DeleteObjects: 0.122500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 2.014700 ms (FindLiveObjects: 0.049200 ms CreateObjectMapping: 0.031700 ms MarkObjects: 1.889500 ms  DeleteObjects: 0.042900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 747.
+Total: 2.034800 ms (FindLiveObjects: 0.046000 ms CreateObjectMapping: 0.036200 ms MarkObjects: 1.947900 ms  DeleteObjects: 0.003700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 129 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 4.033100 ms (FindLiveObjects: 0.076000 ms CreateObjectMapping: 0.063400 ms MarkObjects: 3.755400 ms  DeleteObjects: 0.137200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 820.
+Total: 3.453100 ms (FindLiveObjects: 0.070300 ms CreateObjectMapping: 0.035200 ms MarkObjects: 3.339100 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 820.
+Total: 3.766900 ms (FindLiveObjects: 0.096000 ms CreateObjectMapping: 0.051700 ms MarkObjects: 3.613400 ms  DeleteObjects: 0.004600 ms)
+
